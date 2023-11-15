@@ -31,3 +31,5 @@ The dataset, sourced from various dealerships, provided a robust foundation for 
     
     Represented company-wise sales trends in a tabular format, providing a detailed breakdown of sales for each car model.
     Included percentage of year-to-date sales to offer insights into the relative contribution of each car model.
+
+Tableau Link: https://public.tableau.com/app/profile/aryan.tele/viz/CarSalesAnalysis_16997866965590/Dashboard1
